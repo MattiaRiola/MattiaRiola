@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as back end developer in a cybersecurity company
-- 🤔 I’m looking for help with alfred workflows, I've some useful ideas but I don't have enough time to develop them
+- 💼 I’m currently working as back end developer in a cybersecurity company
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiariola&show_icons=true&theme=dark)
 
