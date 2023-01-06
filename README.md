@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 I’m currently working as back end developer in a cybersecurity company
-- 💻 You can see my webpage [here](https://mattiariola.github.io/react-gh-pages/)
+- 💻 You can see my webpage [here](https://mattiariola.github.io/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiariola&show_icons=true&theme=dark)
 
