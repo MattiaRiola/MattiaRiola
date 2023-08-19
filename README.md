@@ -6,8 +6,8 @@
 
 <h2>💻 Check my personal website</h2>
 <p align="center">
-  <a ref="https://mattiariola.github.io/" target="_blank" rel="external"> 
-    <img src="https://sdk.bitmoji.com/render/panel/283a31f3-6667-448a-bbc6-4653eeddf99d-aba1290c-ac3c-4a58-9daf-b1524918824c-v1.png?transparent=1&palette=1" alt="java" width="256" height="256"/> 
+  <a href="https://mattiariola.github.io/" target="_blank" rel="external"> 
+    <img src="https://sdk.bitmoji.com/render/panel/283a31f3-6667-448a-bbc6-4653eeddf99d-aba1290c-ac3c-4a58-9daf-b1524918824c-v1.png?transparent=1&palette=1" alt="website" width="256" height="256"/> 
   </a>
 </p>
 
