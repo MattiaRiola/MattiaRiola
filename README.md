@@ -18,36 +18,27 @@
 <h1>🤹🏼 Skills</h1>
 <details><summary style="font-size:20px">🔣 Languages</summary>
   <p align="left" style="margin-left:2em">
-    <div style="display: flex">
-      <a href="https://www.java.com" target="_blank" rel="external" style="margin-left: 20px"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        <figcaption align="center">java</figcaption>
-      </a>
-      <a href="https://kotlinlang.org" target="_blank" rel="external" style="margin-left: 20px"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-        <figcaption align="center">kotlin</figcaption>
-      </a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="external" style="margin-left: 20px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        <figcaption align="center">c</figcaption>
-      </a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="external" style="margin-left: 20px"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-        <figcaption align="center">cpp</figcaption> 
-      </a>
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="external" style="margin-left: 20px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-        <figcaption align="center">csharp</figcaption>
-      </a>
-      <a href="https://go.dev/" target="_blank" rel="external" style="margin-left: 20px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-        <figcaption align="center">golang</figcaption> 
-      </a>
-      <a href="https://www.python.org/" target="_blank" rel="external" style="margin-left: 20px"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <figcaption align="center">python</figcaption>
-      </a>
-  </div>
+    <a href="https://www.java.com" target="_blank" rel="external"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="external"> 
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="external">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="external"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="external">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://go.dev/" target="_blank" rel="external">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="external"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
   </p>
 
 </details>
